@@ -12,6 +12,8 @@ Remember to commit often using meaningful commit messages!
 
 👉 Use an array method to produce a new array of all of the celebrity names which start with a vowel and store in a new variable called `vowelCelebs`.
 
+
+
 ## Task 2
 
 [Click for hints if you get stuck](#hints)
@@ -19,6 +21,8 @@ Remember to commit often using meaningful commit messages!
 👉 In the task-2 `index.html`, there is a `p` tag that contains a counter. Using `setInterval`, have the counter increment once every second when the page is loaded.
 
 👉 Stop the above interval from incrementing after 12 seconds have passed using the [clearInterval](https://www.w3schools.com/jsref/met_win_clearinterval.asp) function
+
+
 
 ## Task 3
 
